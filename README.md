@@ -1,4 +1,5 @@
 # Linear-Algebra-Solvers
+stationary-combustion.html
 import numpy as np
 import matplotlib.pyplot as plt
 
