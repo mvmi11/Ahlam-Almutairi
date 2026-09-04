@@ -1,3 +1,3 @@
-# 
+# Linear-Algebra-Solvers
 math Student🇨🇦
- $\int$
+ matrix_solver.py
